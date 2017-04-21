@@ -16,6 +16,7 @@ public class ImageUtils {
             "http://img.kaiyanapp.com/743d5b07767422d7eb8c31dd5870217d.jpeg",
             "http://img.kaiyanapp.com/560a9256559a43d0100b600afc736fd1.jpeg",
             "http://img.kaiyanapp.com/9664ba20cb912f962d4a980adeab06ec.jpeg",
+            "http://img.kaiyanapp.com/9f1cf2b4b0745948c53926c13bb6ec7e.jpeg"
     };
 
 
